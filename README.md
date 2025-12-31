@@ -1,1 +1,1 @@
-This is my first attempted coding project, I created a login simulator that checks to make sure that you have the username and password correct (user and password123, each respectively), and after 5 attempts if all 5 attempts are incorrect, it locks the account.
+This is my first attempted coding project, I created a login simulator that checks to make sure that you have the username and password correct (user and password123, each respectively), and after 5 attempts if all 5 attempts are incorrect, it locks the account. This project was created on 12/22/25.
